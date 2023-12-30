@@ -25,8 +25,6 @@ Compile the code.
 
 cd ros_motion_planning/
 catkin_make
-# or catkin build
-# you may need to install it by: sudo apt install python-catkin-tools
 
 Execute the code.
 
