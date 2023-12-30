@@ -21,7 +21,7 @@ Install ubuntu 20.04 LTS with ROS Noetic.
 
 4. Clone the reposity.
     ```bash
-    git clone https://github.com/ai-winter/ros_motion_planning.git
+    git clone https://github.com/RamboLan1/ros_motion_planning.git
     ```
 
 5. Compile the code. 
