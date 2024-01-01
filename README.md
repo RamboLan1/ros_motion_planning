@@ -1,5 +1,9 @@
 # ros_motion_planning
+**Example video**
 
+![demo.gif](./assets/demo.gif)
+
+**Install Direction**
 Install ubuntu 20.04 LTS with ROS Noetic.
 
 1. Install [ROS](http://wiki.ros.org/ROS/Installation) (Desktop-Full *suggested*).
