@@ -8,7 +8,13 @@
 ## <span id="2">02. Install Direction
 
 0. Install ubuntu 20.04 LTS with ROS Noetic.
+    ```bash
+    1. Download VMware wrokstation.
 
+    https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+
+    2. 
+    ```
 
 1. Install [ROS](http://wiki.ros.org/ROS/Installation) (Desktop-Full *suggested*).
 
