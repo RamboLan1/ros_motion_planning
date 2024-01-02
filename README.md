@@ -5,6 +5,10 @@
 
 ![demo.gif](./assets/demo.gif)
 
+
+![final1.gif](./assets/final1.gif)
+
+
 ## <span id="2">02. Install Direction
 
 0. Install Ubuntu 20.04 LTS.
