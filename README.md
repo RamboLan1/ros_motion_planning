@@ -1,12 +1,15 @@
 # ros_motion_planning
 
-## <span id="1">01. Example video
+## <span id="1">01. Example & Final result video
 
+Example:
 
 ![demo.gif](./assets/demo.gif)
 
+Final:
 
 ![final1.gif](./assets/final1.gif)
+![final2.gif](./assets/final2.gif)
 
 
 ## <span id="2">02. Install Direction
