@@ -95,3 +95,9 @@ Final:
 |:-------:|:-------:|:---------:|
 |   **PID**   | [![Status](https://img.shields.io/badge/done-v1.1-brightgreen)](https://github.com/ai-winter/ros_motion_planning/blob/master/src/core/local_planner/pid_planner/src/pid_planner.cpp) |           ![pid_ros.gif](assets/pid_ros.gif)            |
 |   **DWA**   |     [![Status](https://img.shields.io/badge/done-v1.0-brightgreen)](https://github.com/ai-winter/ros_motion_planning/blob/master/src/core/local_planner/dwa_planner/src/dwa.cpp)     |           ![dwa_ros.gif](assets/dwa_ros.gif)            |
+
+
+## <span id="4">04. Open Data source
+The VRU Trajectory Dataset consists of 1068 pedestrian and 464 cyclist trajectories recorded at an urban intersection using cameras and LiDARs.
+
+https://zenodo.org/records/6303669
