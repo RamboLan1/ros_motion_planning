@@ -99,5 +99,7 @@ Final:
 
 ## <span id="4">04. Open Data source
 The VRU Trajectory Dataset consists of 1068 pedestrian and 464 cyclist trajectories recorded at an urban intersection using cameras and LiDARs.
-
 https://zenodo.org/records/6303669
+
+For your information, this platform contains a social interaction algorithm to generate pedestrian paths and avoid collision with robots and walls. So, the open data sources were just used at the start and end positions.  
+Edit the pedestrian position with goal_point in src/user_config/pedestrain_config.yaml
